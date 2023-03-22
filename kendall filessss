@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Kendall'personal site</title>
+</head>
+
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td> <img
+                    src="https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/336727654_1614279638994794_4178010953211638570_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHPARBMUNkWnSanI13KyOIocV0bayrA4xRxXRtrKsDjFCQgOhF5OkdLUqhkwRdVqAbimhlgSHsEam5EAHQ8GogN&_nc_ohc=7zfyHX-djegAX8aclkF&_nc_ht=scontent.fcgy2-1.fna&oh=00_AfC503C0UmWacDZWp06aNkP3Ey3Sw-2arvE-D7sxOLY1vA&oe=641E99D5"
+                    alt="profilepicture" width="200px" height="200px"></td>
+            <td>
+                <h1>Kendall Avareyz</h1>
+                <p>soon to be the wife of Brandon Perkins</p>
+                <p><em>I am a Filipina,also can be seen as<strong><a
+                                href="https://us.123rf.com/450wm/phartisan/phartisan2003/phartisan200300038/144141655-beautiful-young-woman-s-face-with-gorgeous-curly-black-hai.jpg?ver=6">LATINA</a></strong></em>
+                </p>
+            </td>
+        </tr>
+    </table>
+
+
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <li>The complet iOS development bootcamp</li>
+        <li>the complete web development bootcamp</li>
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+
+    <table cellspacing="10">
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2019</td>
+                <td>beautician</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td>singer at walwal resto bar</td>
+            </tr>
+        </tbody>
+        <tfoot>
+
+        </tfoot>
+
+    </table>
+    <hr>
+    <h3>Skills</h3>
+
+    <table cellspacing="10">
+        <tr>
+            <td>Dance Instructor</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Beautician</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Vocalist</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+    </table>
+    <hr>
+    <h3>My hobbies</h3>
+    <ol>
+        <li><a href="https://youtu.be/wSovGxFcjZA">dance</a></li>
+        <li><a href="https://youtu.be/Gu-rO1fwUD4">sing</a></li>
+        <li><a href="https://youtu.be/OkHsr8mxlb4">sports</a></li>
+        <li><a href="https://youtu.be/bJzb-RuUcMU">computer</a></li>
+    </ol>
+    <hr>
+    <h3>MY Contact Details</h3>
+    <p>My Address</p>
+    <p>Digos City</p>
+    <p>My Phone Number</p>
+    <p>09079472333</p>
+    <p>My gmail</p>
+    <p>kendallavareyz@gmail.com</p>
+    <hr>
+
+    <form action="mailto: kendallavareyz@gmail.com" method="post" enctype="text/plain">
+        <label>Your Name:</label>
+        <input type="text" name="your name" value=""><br>
+        <label>Your gmail</label>
+        <input type="email" name="your email"><br>
+        <label>Your message</label><br>
+        <textarea name="your message" cols="30" rows="10"></textarea><br>
+        <input type="submit" name="">
+    </form>
+
+</body>
+
+</html>
